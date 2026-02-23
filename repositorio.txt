@@ -1,0 +1,2 @@
+Repositorio del proyecto API Rapitiendas:
+https://github.com/jhoanjimz2/rapitiendas-api.git

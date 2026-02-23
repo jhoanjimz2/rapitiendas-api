@@ -1,0 +1,13 @@
+API Rapitiendas
+
+POST /api/usuarios
+Permite registrar usuarios.
+
+GET /api/usuarios
+Lista usuarios registrados.
+
+POST /api/login
+Permite autenticación de usuarios.
+
+GET /api/usuarios/{id}
+Permite consultar un usuario por su identificador.
